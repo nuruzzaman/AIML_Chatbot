@@ -13,7 +13,7 @@
 </category>
 
 <category>
-<pattern>OK *</pattern>
+<pattern>*</pattern>
 <template>
 What is your name? 
 </template>
