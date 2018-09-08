@@ -1,7 +1,9 @@
 # AIML_Chatbot
 Artificial Intelligence Chatbot - Demo 
 
-pip install -r requirements.txt
+Installation: 
+* Install Python 2.7 
+* pip install -r requirements.txt
 
 Run Server: 
 python main.py 
