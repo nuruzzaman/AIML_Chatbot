@@ -1,13 +1,27 @@
-# AIML_Chatbot
-Artificial Intelligence Chatbot - Demo 
+# Medius Health Chatbot
+AI Based chatbot using Python and AIML
 
-Installation: 
-* Install Python 2.7 
-* pip install -r requirements.txt
+### Requirements
+    Python >= 2.7x
+    AIML >=1.0
 
-Run Server: 
-python main.py 
+## Installation
 
-Client: 
-Open browser at localhost:5000 
+1. Clone and navigate to chatbot directory.
 
+2. Install the required packages.
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Run the python script.
+    ```bash
+    python main.py
+    ```
+5. You're done, chat with your Robot :)
+
+## Screensot 
+   ![alt tag](/screenshot/chatbot_screen_4.png)
+
+## Author
+
+***[Mohammad Nuruzzaman](https://github.com/nuruzzaman/AIML_Chatbot/)***
