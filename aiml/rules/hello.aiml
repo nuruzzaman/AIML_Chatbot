@@ -77,4 +77,11 @@ and is a <get name="gender"/> <get name="isSmoker"/>
 </template>
 </category>
 
+<category>
+<pattern>BYE</pattern>
+<template>
+Have a good day. Bye 
+</template>
+</category>
+
 </aiml>
