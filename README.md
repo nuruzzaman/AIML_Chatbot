@@ -21,6 +21,9 @@ AI Based chatbot using Python and AIML
 5. You're done, chat with your Robot :)
 
 ## Screensot 
+	![alt tag](https://github.com/nuruzzaman/AIML_Chatbot/blob/master/screenshot/chatbot_screen_1.PNG)
+	![alt tag](https://github.com/nuruzzaman/AIML_Chatbot/blob/master/screenshot/chatbot_screen_2.PNG)
+	![alt tag](https://github.com/nuruzzaman/AIML_Chatbot/blob/master/screenshot/chatbot_screen_3.PNG)
    ![alt tag](https://github.com/nuruzzaman/AIML_Chatbot/blob/master/screenshot/chatbot_screen_4.PNG)
 
 ## Author
