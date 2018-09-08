@@ -26,7 +26,6 @@ What is your name?
 Nice to meet you, <get name="username"/>. Are you male or female?
 </template>
 </category>
-<get name="username" />
 
 <category>
 <pattern>* MALE</pattern>
