@@ -10,10 +10,14 @@ def hello():
 
 @app.route("/ask", methods=['POST'])
 def ask():
+	#sessionId = 12345
 	message = request.form['messageText'].encode('utf-8').strip()
 
 	kernel = aiml.Kernel()
-
+	#sessionData = kernel.getSessionData(sessionId)
+	#kernel.verbose(False)
+	#kernel.setBotPredicate("name", "AI Chatbot")
+	
 	if os.path.isfile("bot_brain.brn"):
 	    kernel.bootstrap(brainFile = "bot_brain.brn")
 	else:
