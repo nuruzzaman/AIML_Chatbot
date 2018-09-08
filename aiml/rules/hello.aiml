@@ -57,7 +57,7 @@ Are you a smoker?
 <category>
 <pattern>YES</pattern>
 <template>
-<think><set name="isSmoker">Yes</set></think>
+<think><set name="isSmoker">Smoker</set></think>
 Thank you. Enter "Done" for results.
 </template>
 </category>
@@ -65,7 +65,7 @@ Thank you. Enter "Done" for results.
 <category>
 <pattern>NO</pattern>
 <template>
-<think><set name="isSmoker">No</set></think>
+<think><set name="isSmoker">Non-smoker</set></think>
 Thank you. Enter "Done" for results.
 </template>
 </category>
